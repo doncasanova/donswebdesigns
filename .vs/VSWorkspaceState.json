@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\css"
+    "\\css",
+    "\\img",
+    "\\img\\customer_images"
   ],
-  "SelectedNode": "\\css\\spinner.css",
+  "SelectedNode": "\\img\\customer_images\\Fair-Festival-Laser-Show-3.jpg",
   "PreviewInSolutionExplorer": false
 }
