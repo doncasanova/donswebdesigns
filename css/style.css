@@ -438,9 +438,9 @@ h1 a.navbar-brand {
 =========================== */
 
 section.featured {
-	padding: 200px 0 60px;
-	background: #70B9B0;
-	color: #fdfdfd;
+    padding: 200px 0 60px;
+    background: #270f36;
+    color: #fdfdfd;
 }
 
 section.featured h2.slogan {
@@ -1102,3 +1102,7 @@ Media queries
 	}
 }
 
+.PortfolioImage {
+    max-height:250px;
+    width:auto;
+}
