@@ -1106,3 +1106,8 @@ Media queries
     max-height:250px;
     width:auto;
 }
+
+.phoneNumber {
+    color:white;
+
+}
