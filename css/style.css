@@ -1109,5 +1109,9 @@ Media queries
 
 .phoneNumber {
     color:white;
+}
 
+.language-icon{
+    max-height: 250px;
+    width: 100%;
 }
